@@ -143,7 +143,7 @@ export default function KaritonRestaurant() {
             />
             <div>
               <h1 className="text-xl font-bold text-primary">🛒 Kariton Restaurant</h1>
-              <p className="text-sm text-muted-foreground">🇵🇭 Authentic Filipino Street Food</p>
+              <p className="text-sm text-muted-foreground">🇵🇭 Authentic Filipino Street Food, Made with Heart</p>
             </div>
           </div>
           <nav className="hidden md:flex items-center gap-6">
