@@ -37,8 +37,8 @@ export default function KaritonRestaurant() {
       category: "Soup",
     },
     {
-      name: "Stuffed Chicken",
-      description: "Juicy chicken stuffed with cheese and herbs, perfectly seasoned",
+      name: "Crispy Pata",
+      description: "Golden deep-fried pork hock—crispy on the outside, tender and flavorful inside.",
       image: "/images/food-6.jpg",
       category: "Grilled",
     },
